@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Pyscho Record",
+    "imageSrc": "projects/psycho_record.png",
+    "description": "Registro clinico psicologico de citas asistidas por alumnos de la IESTP",
+    "skills": ["React", "Express", "Node", "Javascript", "Mysql"],
+    "demo": "https://iestp-psicologia.onrender.com/",
+    "source": "",
+    "frontend": "https://github.com/DanDev1004/psycho_record_frontend",
+    "backend": "https://github.com/DanDev1004/psycho_record_backend"
+  }
+]

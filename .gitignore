@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Firebase debug files
+firebase-debug.log
+
+# Sensitive files 
+.firebase/

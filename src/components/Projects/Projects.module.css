@@ -1,0 +1,29 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+  max-height: 650px;
+  overflow-y: auto;
+  scrollbar-width: none;
+  padding-bottom: 10px;
+  mask-image: linear-gradient(black 97%, transparent 100%);
+}
+
+

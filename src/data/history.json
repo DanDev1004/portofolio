@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Data Analyst",
+    "organisation": "KP Ingenieria Logistica Peru",
+    "startDate": "Nov, 2024",
+    "endDate": "Dic, 2024",
+    "experiences": ["Transformación y limpieza de datos para análisis estadistico", "Generación de reportes accionables con Stata, Excel y Python"],
+    "imageSrc": "history/kp.jpg"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "IESTP CHINCHA",
+    "startDate": "May, 2024",
+    "endDate": "Oct, 2024",
+    "experiences": ["Sistema de gestión", "Registro clínico psicológico de alumnos"],
+    "imageSrc": "history/iestp.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "JAB Lavanderia",
+    "startDate": "May, 2022",
+    "endDate": "Abr, 2024",
+    "experiences": ["sistema de gestión", "Transformación del flujo de trabajo manual a un sistema digital eficiente"],
+    "imageSrc": "history/jab.png"
+  }
+]
