@@ -24,6 +24,10 @@
     "imageSrc": "skills/jest.png"
   },
   {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
     "title": "Git",
     "imageSrc": "skills/git.png"
   },
@@ -75,9 +79,5 @@
   {
     "title": "Linux",
     "imageSrc": "skills/linux.png"
-  },
-  {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
   }
 ]
