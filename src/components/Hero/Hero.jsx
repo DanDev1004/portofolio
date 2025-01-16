@@ -9,14 +9,14 @@ export const Hero = () => {
       <div className={styles.content}>
 
         <div className={styles.socials}>
-          <a href="https://github.com/DanDev1004">
+          <a href="https://github.com/DanDev1004" target="_blank" >
           <img
             src={getImageUrl("hero/github.png")}
             alt="github"
             className={styles.social}
           />
           </a>
-          <a href="https://www.linkedin.com/in/dante-luque/">
+          <a href="https://www.linkedin.com/in/dante-luque/" target="_blank" >
           <img
             src={getImageUrl("hero/linkedin.png")}
             alt="linkedin"
@@ -30,7 +30,7 @@ export const Hero = () => {
           +2 años de experiencia. Ingeniero de Software y Analista de Datos. Especializado en el desarrollo de aplicaciones web y móviles.
         </p>
         <div className={styles.Buttons}>
-          <a href="mailto:dandeveloper1004@gmail.com"  className={styles.contactBtn}>
+          <a href="mailto:dandeveloper1004@gmail.com" className={styles.contactBtn}>
             Contáctame
           </a>
           <a href="" target="_blank" className={styles.cvBtn}>
