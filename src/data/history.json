@@ -1,5 +1,13 @@
 [
   {
+    "role": "Software Engineer",
+    "organisation": "JAB Lavanderia",
+    "startDate": "Ene, 2024",
+    "endDate": "Actualidad",
+    "experiences": ["sistema de gestión", "Transformación del flujo de trabajo manual a un sistema digital eficiente"],
+    "imageSrc": "history/jab.png"
+  },
+  {
     "role": "Data Analyst",
     "organisation": "KP Ingenieria Logistica Peru",
     "startDate": "Nov, 2024",
@@ -14,13 +22,5 @@
     "endDate": "Oct, 2024",
     "experiences": ["Sistema de gestión", "Registro clínico psicológico de alumnos"],
     "imageSrc": "history/iestp.png"
-  },
-  {
-    "role": "Software Engineer",
-    "organisation": "JAB Lavanderia",
-    "startDate": "May, 2022",
-    "endDate": "Abr, 2024",
-    "experiences": ["sistema de gestión", "Transformación del flujo de trabajo manual a un sistema digital eficiente"],
-    "imageSrc": "history/jab.png"
   }
 ]
