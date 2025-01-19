@@ -33,7 +33,7 @@ export const Hero = () => {
           <a href="mailto:dandeveloper1004@gmail.com" className={styles.contactBtn}>
             Contáctame
           </a>
-          <a href="https://drive.google.com/file/d/1u7tKZxA3JKDgVj1zcaYsOrkpz4oP3o4O/view" target="_blank" className={styles.cvBtn}>
+          <a href="https://drive.google.com/file/d/1PuotAPRM1i67yHci1S57v3HfTk-KUEGT/view" target="_blank" className={styles.cvBtn}>
             ver mi CV
           </a>
         </div>
