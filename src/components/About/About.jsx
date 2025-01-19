@@ -40,7 +40,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Cooperación</h3>
               <p>
-                He adquirido experiencia en trabajos colaborativos aplicando <span className={styles.highlight}>Scrum y Kanban</span>. Usando herramientas necesarias como <span className={styles.highlight}>Slack, Jira, UML y documentación</span> usando swagger
+                He adquirido experiencia en trabajos colaborativos aplicando <span className={styles.highlight}>Scrum y Kanban</span>. Usando herramientas necesarias como <span className={styles.highlight}>Slack, Jira, UML y documentación</span>.
               </p>
             </div>
           </li>
