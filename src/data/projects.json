@@ -1,6 +1,6 @@
 [
   {
-    "title": "Pyscho Record",
+    "title": "Psycho Record",
     "imageSrc": "projects/psycho_record.png",
     "description": "Registro clinico psicologico de citas asistidas por alumnos de la IESTP",
     "skills": ["React", "Express", "Node", "Javascript", "Mysql"],
