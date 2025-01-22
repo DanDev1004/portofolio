@@ -4,6 +4,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
@@ -12,20 +16,32 @@
     "imageSrc": "skills/express.png"
   },
   {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
     "title": "Javascript",
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "Typescript",
-    "imageSrc": "skills/typescript.png"
+    "title": "JWT",
+    "imageSrc": "skills/jwt.png"
+  },
+  {
+    "title": "Redis",
+    "imageSrc": "skills/redis.png"
+  },
+  {
+    "title": "Vite",
+    "imageSrc": "skills/vite.png"
   },
   {
     "title": "Jest",
     "imageSrc": "skills/jest.png"
   },
   {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
+    "title": "Swagger",
+    "imageSrc": "skills/swagger.png"
   },
   {
     "title": "Git",
@@ -35,49 +51,32 @@
     "title": "Github",
     "imageSrc": "skills/github.png"
   },
-
   {
     "title": "Mysql",
     "imageSrc": "skills/mysql.png"
-  },
-  {
-    "title": "postgresql",
-    "imageSrc": "skills/postgresql.png"
-  },
-  {
-    "title": "Sqlite",
-    "imageSrc": "skills/sqlite.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap.png"
+    "title": "Prisma",
+    "imageSrc": "skills/prisma.png"
   },
   {
-    "title": "Tailwind",
-    "imageSrc": "skills/tailwind.png"
+    "title": "UML",
+    "imageSrc": "skills/uml.png"
   },
   {
     "title": "Docker",
     "imageSrc": "skills/docker.png"
   },
   {
-    "title": "Kubernetes",
-    "imageSrc": "skills/kubernetes.png"
-  },
-  {
-    "title": "jenkins",
-    "imageSrc": "skills/jenkins.png"
-  },
-  {
-    "title": "Selenium",
-    "imageSrc": "skills/selenium.png"
-  },
-  {
     "title": "Linux",
     "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   }
 ]

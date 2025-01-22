@@ -30,7 +30,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Habilidad</h3>
               <p>
-                Actualmente soy desarrollador Full Stack con experiencia en aplicaciones web responsivas, sistemas escalables, <span className={styles.highlight} >arquitecturas limpias (DDD)</span> e integración de APIs con cocimientos en bases de datos relacionales y no relacionales.
+                Actualmente soy desarrollador Full Stack con experiencia en aplicaciones web responsivas, sistemas escalables, <span className={styles.highlight} >arquitecturas limpias y DDD</span>, integración de APIs, bases de datos relacionales y no relacionales.
               </p>
             </div>
           </li>
@@ -40,7 +40,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Cooperación</h3>
               <p>
-                He adquirido experiencia en trabajos colaborativos aplicando <span className={styles.highlight}>Scrum y Kanban</span>. Usando herramientas necesarias como <span className={styles.highlight}>Slack, Jira, UML y documentación</span>.
+                He adquirido experiencia en trabajos colaborativos aplicando <span className={styles.highlight}>metodologias agiles como Scrum</span>.
               </p>
             </div>
           </li>
