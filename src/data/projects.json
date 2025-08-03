@@ -1,12 +1,25 @@
 [
   {
+    "title": "Job Market",
+    "imageSrc": "projects/job_market.png",
+    "description": "Aplicación para la búsqueda de empleo y gestión de postulaciones",
+    "skills": ["React", "Express", "Node", "Javascript", "Firebase", "n8n", "Tailwind", "Docker"],
+    "demo": "https://job-market-client.onrender.com",
+    "code": "https://github.com/stars/iestpdev/lists/job-market"
+  },
+  {
+    "title": "Zoom Monitor",
+    "imageSrc": "projects/zoom_monitor.png",
+    "description": "Indicadores del estado de las reuniones de Zoom y actividad de los participantes",
+    "skills": ["React", "Express", "Node", "Javascript", "Firebase", "n8n", "Tailwind", "Docker", "Typescript"],
+    "code": "https://github.com/stars/DanDev1004/lists/zoom-monitor"
+  },
+  {
     "title": "Psycho Record",
     "imageSrc": "projects/psycho_record.png",
     "description": "Registro clinico psicologico de citas asistidas por alumnos de la IESTP",
     "skills": ["React", "Express", "Node", "Javascript", "Mysql"],
     "demo": "https://iestp-psicologia.onrender.com/",
-    "source": "",
-    "frontend": "https://github.com/DanDev1004/psycho_record_frontend",
-    "backend": "https://github.com/DanDev1004/psycho_record_backend"
+    "code": "https://github.com/stars/DanDev1004/lists/psycho-record"
   }
 ]
