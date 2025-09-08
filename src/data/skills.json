@@ -32,14 +32,6 @@
     "imageSrc": "skills/redis.png"
   },
   {
-    "title": "Vite",
-    "imageSrc": "skills/vite.png"
-  },
-  {
-    "title": "Jest",
-    "imageSrc": "skills/jest.png"
-  },
-  {
     "title": "Swagger",
     "imageSrc": "skills/swagger.png"
   },
