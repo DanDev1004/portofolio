@@ -27,7 +27,7 @@ export const Hero = () => {
 
         <h1 className={styles.title}>Hola, soy Dante</h1>
         <p className={styles.description}>
-          +8 meses de experiencia. Ingeniero de Software y Analista de Datos. Especializado en el desarrollo de aplicaciones web y móviles.
+          +1 año de experiencia como Ingeniero de Software. Especializado en el desarrollo de aplicaciones web.
         </p>
         <div className={styles.Buttons}>
           <a href="mailto:dandeveloper1004@gmail.com" className={styles.contactBtn}>
